@@ -1,0 +1,500 @@
+1	3356	Level 3 Parent, LLC		46995
+2	1299	Telia Company AB		36489
+3	174	Cogent Communications		31695
+4	3257	GTT Communications Inc.		21625
+5	6762	Telecom Italia Sparkle S.p.A.		19933
+6	2914	NTT America, Inc.		19432
+7	6939	Hurricane Electric LLC		17954
+8	6461	Zayo Bandwidth		15897
+9	6453	TATA COMMUNICATIONS (AMERICA) INC		15777
+10	3491	PCCW Global, Inc.		13767
+11	1273	Vodafone Group PLC		8260
+12	9002	RETN Limited		7891
+13	4637	Telstra International Limited		5740
+14	5511	Orange S.A.		5620
+15	12956	TELEFONICA GLOBAL SOLUTIONS SL		4411
+16	12389	PJSC Rostelecom		4183
+17	7473	Singapore Telecommunications (SINGTEL Internet Exchange)		3850
+18	701	MCI Communications Services, Inc. d/b/a Verizon Business		3768
+19	20485	Joint Stock Company TransTeleCom		3686
+20	52320	GlobeNet Cabos Submarinos Colombia, S.A.S.		3360
+21	7018	AT&T Services, Inc.		3345
+22	3320	Deutsche Telekom AG		3181
+23	16735	ALGAR TELECOM S/A		3051
+24	3216	PJSC "Vimpelcom"		2885
+25	31133	PJSC MegaFon		2749
+26	3549	Level 3 Parent, LLC		2699
+27	9498	Bharti Airtel Limited		2686
+28	20764	CJSC RASCOM		2684
+29	262589	INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A		2449
+30	7922	Comcast Cable Communications, LLC		2404
+31	6830	Liberty Global B.V.		2399
+32	1239	Sprint		2023
+33	37468	Angola Cables		2003
+34	15412	Reliance Globalcom Limited		1988
+35	10429	TELEFÔNICA BRASIL S.A		1911
+36	209	CenturyLink Communications, LLC		1814
+37	4755	Tata Communications Limited		1770
+38	4826	Vocus Communications		1654
+39	8359	MTS PJSC		1648
+40	7738	Telemar Norte Leste S.A.		1535
+41	41095	IPTP LTD		1494
+42	4230	CLARO S.A.		1434
+43	13786	Seabras 1 USA, LLC		1374
+44	33891	Core-Backbone GmbH		1249
+45	8220	COLT Technology Services Group Limited		1244
+46	28917	Fiord Networks, UAB		1196
+47	4766	Korea Telecom		1140
+48	9304	HGC Global Communications Limited		1130
+49	29076	Filanco LLC		1080
+50	31500	Global Network Management Inc		1054
+51	11537	Internet2		1022
+52	4809	China Telecom		1013
+53	9049	JSC "ER-Telecom Holding"		995
+54	26615	TIM S/A		983
+55	7195	EDGEUNO SAS		964
+56	46887	Lightower Fiber Networks I, LLC		945
+57	7843	Charter Communications Inc		893
+58	8167	Brasil Telecom S/A - Filial Distrito Federal		875
+59	28329	G8 NETWORKS LTDA		863
+60	11164	Internet2		827
+61	61568	ALOO TELECOM - FSF TECNOLOGIA SA		706
+62	3303	Swisscom (Schweiz) AG		705
+63	3267	Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"		698
+64	1221	Telstra Corporation		697
+65	43531	IX Reach Ltd		693
+66	267613	ELETRONET S.A.		663
+67	61832	Fortel Fortaleza Telecomunicacoes Ltda		652
+68	14840	BR.Digital Provider		649
+69	58453	China Mobile		640
+70	3326	PRIVATE JOINT STOCK COMPANY "DATAGROUP"		639
+71	132602	Bangladesh Submarine Cable Company Limited (BSCCL)		638
+72	2828	MCI Communications Services, Inc. d/b/a Verizon Business		637
+73	53013	W I X NET DO BRASIL LTDA - ME		616
+74	7029	Windstream Communications LLC		608
+75	22773	Cox Communications Inc.		577
+76	4134	China Telecom		569
+77	23520	Columbus Networks USA, Inc.		564
+78	8218	Zayo France SAS		559
+79	32787	Akamai Technologies, Inc.		551
+80	12741	Netia SA		550
+81	7545	TPG Internet Pty Ltd		525
+82	22356	Durand do Brasil Ltda		516
+83	28598	Mob Servicos de Telecomunicacoes Ltda		506
+84	7474	SingTel Optus Pty Ltd		504
+85	5588	T-Mobile Czech Republic a.s.		502
+86	53062	GGNET TELECOMUNICAÇÕES LTDA		500
+87	2516			496
+88	3223	Voxility LLP		496
+89	9318	SK Broadband Co Ltd		480
+90	39533	Asympto Networks Kft.		477
+91	18881	TELEFÔNICA BRASIL S.A		471
+92	577	Bell Canada		469
+93	2603	NORDUnet		467
+94	35320	Eurotranstelecom Ltd		465
+95	2497			445
+96	5617	Orange Polska Spolka Akcyjna		437
+97	20473	The Constant Company, LLC		431
+98	7713	Telekomunikasi Indonesia (PT)		427
+99	20965	GEANT Vereniging		422
+100	20115	Charter Communications		418
+101	29791	Internap Holding LLC		412
+102	8732	OJSC Comcor		412
+103	45820	TTSL-ISP DIVISION		407
+104	3786	LG DACOM Corporation		402
+105	8708	RCS & RDS SA		402
+106	37100	SEACOM Limited		397
+107	28663	FLYS INTERATIVA LTDA		395
+108	50607	Stowarzyszenie e-Poludnie		390
+109	201054	Stowarzyszenie e-Poludnie		387
+110	49666	Telecommunication Infrastructure Company		383
+111	20804	Exatel S.A.		382
+112	21320	GEANT Vereniging		379
+113	58717	Summit Communication Limited		377
+114	35297	Dataline LLC		377
+115	9121	Turk Telekomunikasyon Anonim Sirketi		376
+116	6663	Euroweb Romania S.R.L.		373
+117	1820	WNET TELECOM USA Corp.		372
+118	4657	Starhub Internet Pte Ltd		365
+119	6128	Cablevision Systems Corp.		364
+120	10075	Fiber@Home Global Limited		363
+121	38195	SUPERLOOP (AUSTRALIA) PTY LTD		362
+122	263444	Open X Tecnologia Ltda		362
+123	54004	Optimum WiFi		361
+124	8966	Emirates Telecommunications Corporation		355
+125	3255	State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic and Research Network" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)		350
+126	29049	Delta Telecom Ltd		348
+127	24482	SG.GS		341
+128	12302	Vodafone Romania S.A.		339
+129	4651	CAT Telecom Public Company Limited		338
+130	57724	DDOS-GUARD LTD		338
+131	23106	AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT		338
+132	52873	SOFTDADOS CONECTIVIDADE		338
+133	1764	Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH		335
+134	55410	Vodafone Idea Ltd. (VIL)		334
+135	43727	KVANT-TELEKOM Closed Joint Stock Company		331
+136	52468	UFINET PANAMA S.A.		330
+137	6327	Shaw Communications Inc.		328
+138	10796	Charter Communications Inc		327
+139	5400	British Telecommunications PLC		325
+140	201053	Stowarzyszenie e-Poludnie		324
+141	37662	West Indian Ocean Cable Company		323
+142	7303	Telecom Argentina S.A.		322
+143	13237	euNetworks GmbH		322
+144	9808	China Mobile		320
+145	20562	Broadband Hosting B.V		320
+146	52965	1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA		319
+147	263237	PowerHost Telecom SPA		318
+148	53087	TELY Ltda.		315
+149	9583	Sify Limited		314
+150	8447	A1 Telekom Austria AG		313
+151	7049	Silica Networks Argentina S.A.		310
+152	9505	Chunghwa Telecom Co., Ltd.		308
+153	31042	Serbia BroadBand-Srpske Kablovske mreze d.o.o.		303
+154	17676			302
+155	12714	Net By Net Holding LLC		302
+156	1828	Unitas Global LLC		302
+157	22927	Telefonica de Argentina		299
+158	4788	Tmnet, Telekom Malaysia Bhd.		295
+159	34984	TELLCOM ILETISIM HIZMETLERI A.S.		293
+160	4837	CHINA UNICOM Industrial Internet Backbone		292
+161	13094	LLC Milecom		290
+162	39392	SH.cz s.r.o.		288
+163	23947	PT.Mora Telematika Indonesia		286
+164	25478	iHome LLC		279
+165	13030	Init7 (Switzerland) Ltd.		278
+166	852	TELUS Communications Inc.		276
+167	13249	PRIVATE JOINT STOCK COMPANY "DATAGROUP"		276
+168	9050	TELEKOM ROMANIA COMMUNICATION S.A		275
+169	3215	Orange S.A.		274
+170	33491	Comcast Cable Communications, LLC		274
+171	62081	Stowarzyszenie e-Poludnie		272
+172	30844	Liquid Telecommunications Ltd		268
+173	28283	Adylnet Telecom		266
+174	24724	ATM S.A.		263
+175	12874	Fastweb SpA		262
+176	1257	Tele2 Sverige AB		259
+177	28146	MHNET TELECOM		250
+178	196844	Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center		248
+179	24785	Broadband Hosting B.V		247
+180	32098	Transtelco Inc		246
+181	2764	AAPT Limited		245
+182	11404	Wave Broadband		244
+183	263009	FORTE TELECOM LTDA.		240
+184	29119	ServiHosting Networks S.L.		235
+185	29838	Atlantic Metro Communications II, Inc.		234
+186	12552	IP-Only Networks AB		232
+187	13335	Cloudflare, Inc.		230
+188	38082	True International Gateway Co., Ltd.		229
+189	702	MCI Communications Services, Inc. d/b/a Verizon Business		229
+190	4761	PT. INDOSAT Tbk		226
+191	20495	We Dare B.V.		218
+192	6774	Belgacom International Carrier Services SA		215
+193	8641	LLC "Nauka-Svyaz"		215
+194	31027	GlobalConnect NN A/S		213
+195	58682	LEVEL3 CARRIER LIMITED		210
+196	29226	JSC Mastertel		210
+197	25933	Vogel Soluções em Telecom e Informática S/A		208
+198	33651	Comcast Cable Communications, LLC		207
+199	8717	A1 Bulgaria EAD		206
+200	8455	Schuberg Philis B.V.		205
+201	8881	1&1 Versatel Deutschland GmbH		205
+202	17494	Bangladesh Telegraph & Telephone Board		205
+203	7552	Viettel Group		204
+204	12883	PRIVATE JOINT-STOCK COMPANY "FARLEP-INVEST"		204
+205	12430	VODAFONE ESPANA S.A.U.		203
+206	136106	PT. Mega Akses Persada		202
+207	7015	Comcast Cable Communications, LLC		201
+208	6730	Sunrise Communications AG		201
+209	50673	Serverius Holding B.V.		201
+210	16397	EQUINIX BRASIL		200
+211	3269	Telecom Italia S.p.A.		199
+212	2856	British Telecommunications PLC		199
+213	12880	Information Technology Company (ITC)		199
+214	5650	Frontier Communications of America, Inc.		198
+215	13649	Flexential Colorado Corp.		196
+216	15830	TELECITYGROUP INTERNATIONAL LIMITED		194
+217	12578	SIA Tet		191
+218	9299	Philippine Long Distance Telephone Co.		189
+219	9009	M247 Ltd		189
+220	28186	ITS TELECOMUNICACOES LTDA		187
+221	5603	Telekom Slovenije, d.d.		184
+222	12479	Orange Espagne SA		184
+223	29314	VECTRA S.A.		183
+224	35598	Inetcom LLC		183
+225	58552	PT Multidata Rancana Prima		183
+226	45430	ADVANCED WIRELESS NETWORK COMPANY LIMITED		182
+227	35280	ACORUS NETWORKS SAS		182
+228	64049	Reliance Jio Infocomm Pte.Ltd		181
+229	812	Rogers Communications Canada Inc.		180
+230	35168	TNS-Plus LLP		180
+231	57344	Telehouse EAD		180
+232	55836	Reliance Jio Infocomm Limited		179
+233	3209	Vodafone GmbH		178
+234	60299	Mezhdugorodnyaya Mezhdunarodnaya Telefonnaya Stanciya Ltd.		178
+235	263903	INFORBARRA TELECOM		178
+236	7385	Allstream Business US, LLC		176
+237	52361	ARSAT - Empresa Argentina de Soluciones Satelitales S.A.		176
+238	28260	ALTA REDE CORPORATE NETWORK TELECOM LTDA - EPP		176
+239	266925	UPIX NETWORKS		175
+240	16019	Vodafone Czech Republic a.s.		172
+241	17557	Pakistan Telecommuication company limited		172
+242	52551	SAMM Sociedade de Atividades em Multimidia LTDA		172
+243	18101	Reliance Communications Limited		171
+244	30781	Jaguar Network SAS		171
+245	38193	TRANSWORLD ASSOCIATES (PVT) LIMITED		167
+246	13536	First Light Fiber		167
+247	3741	Dimension Data		165
+248	29075	IELO-LIAZO SERVICES SAS		165
+249	264556	L. Garcia Comunicações ME		165
+250	18403	The Corporation for Financing & Promoting Technology		164
+251	5606	GTS Telecom SRL		164
+252	11427	Charter Communications Inc		163
+253	15694	ATM S.A.		163
+254	5738	First Light Fiber		162
+255	13194	UAB "Bite Lietuva"		162
+256	23005	SWITCH, LTD		162
+257	137491	Peerex Networks Ltd.		162
+258	4713			161
+259	12357	VODAFONE ESPANA S.A.U.		161
+260	11432	Telium Telecomunicações Ltda		161
+261	4648	Spark New Zealand Trading Limited		160
+262	4455	IX Reach Ltd		160
+263	55685	PT Jala Lintas Media		160
+264	2152	California State University, Office of the Chancellor		159
+265	33667	Comcast Cable Communications, LLC		159
+266	3758	SingNet Pte Ltd		159
+267	6079	RCN		159
+268	138840	PT Parsaoran Global Datatrans		159
+269	2854	LLC Orange Business Services		158
+270	1680	Cellcom Fixed Line Communication L.P.		157
+271	3910	CenturyLink Communications, LLC		154
+272	8551	Bezeq International-Ltd		154
+273	29535	Orange Polska Spolka Akcyjna		154
+274	2381	WiscNet		153
+275	5391	Hrvatski Telekom d.d.		153
+276	8400	TELEKOM SRBIJA a.d.		152
+277	55655	PT. Sarana InsanMuda Selaras		152
+278	39386	Saudi Telecom Company JSC		151
+279	45899	Vietnam Posts and Telecommunications (VNPT)		151
+280	12713	OTEGlobe - OTE Global Solutions SA		151
+281	33287	Comcast Cable Communications, LLC		151
+282	36280	First Nations Internet Exchange Society		151
+283	3561	CenturyLink Communications, LLC		150
+284	58463	PT.PGAS TELEKOMUNIKASI NUSANTARA		150
+285	58601	Aamra technologies limited		146
+286	33132	Fibernet Direct		146
+287	33657	Comcast Cable Communications, LLC		144
+288	4800	Network Access Provider and Internet Service Provider		144
+289	5483	Magyar Telekom plc.		144
+290	3292	TDC A/S		142
+291	12695	LLC Digital Network		142
+292	28368	SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME		142
+293	50581	Ukrainian Telecommunication Group LLC		140
+294	15290	Allstream Corp.		138
+295	19551	Incapsula Inc		138
+296	22381	Megatelecom Telecomunicacoes Ltda		138
+297	42020	LIBANTELECOM		137
+298	3352	TELEFONICA DE ESPANA		136
+299	44901	Belcloud LTD		136
+300	28716	Reti Telematiche Italiane S.p.A. (Retelit S.p.A.)		136
+301	34549	meerfarbig GmbH & Co. KG		133
+302	38158	PT. Cyberindo Aditama		132
+303	59796	StormWall s.r.o.		131
+304	37271	Workonline Communications(Pty) Ltd		130
+305	8866	Bulgarian Telecommunications Company Plc.		130
+306	8953	Orange Romania S.A.		130
+307	45629	JasTel Network		129
+308	60068	Datacamp Limited		129
+309	15924	VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI		129
+310	19037	AMX Argentina S.A.		129
+311	4775	Globe Telecom (GMCR,INC)		128
+312	11664	Techtel LMDS Comunicaciones Interactivas S.A.		128
+313	55002	Defense.Net, Inc		126
+314	21949	Beanfield Technologies Inc.		126
+315	50509	Aiconet LLC		124
+316	39737	Net Vision Telecom SRL		124
+317	34224	Neterra Ltd.		123
+318	2119	Telenor Norge AS		123
+319	45147	Corporate / Direct Member IDNIC		123
+320	47605	FNE-Finland Ltd		123
+321	42337	Dade Pardazi Respina PJSC		123
+322	11014	CPS		123
+323	58511	ANYCAST HOLDINGS PTY LTD		122
+324	16637	MTN SA		121
+325	2686	AT&T Global Network Services, LLC		120
+326	37282	Mainone Cable Company		120
+327	721	DoD Network Information Center		119
+328	5713	Telkom SA Ltd.		118
+329	6667	Elisa Oyj		118
+330	47872	Sofia Connect EAD		118
+331	61599	EAI TELECOMUNICACOES LTDA		118
+332	48858	LLC Milecom		116
+333	13293	Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center		116
+334	41327	Fiber Telecom S.p.A.		116
+335	21574	Century Telecom Ltda		116
+336	15557	SFR SA		115
+337	58715	Earth Telecommunication ( pvt ) Limited		115
+338	28306	Voluy Telecom Eireli		114
+339	31261	GARS Telecom - Telecommunications Management LLC		114
+340	3462	Chunghwa Telecom Co., Ltd.		113
+341	3301	Telia Company AB		113
+342	62	CyrusOne LLC		113
+343	5578	SWAN, a.s.		113
+344	202984	Chernyshov Aleksandr Aleksandrovich		113
+345	208293	alsalam state company		112
+346	202	Level 3 Parent, LLC		112
+347	57866	Fusix Networks B.V.		112
+348	8595	OOO WestCall Ltd.		112
+349	49063	Dataline Ltd		110
+350	47147	ANEXIA Internetdienstleistungs GmbH		109
+351	7016	Comcast Cable Communications, LLC		109
+352	23352	Server Central Network		109
+353	9790	CallPlus Services Limited		109
+354	9730	Bharti Airtel Limited		109
+355	17922	PT. INDOSAT Tbk		108
+356	20001	Charter Communications Inc		107
+357	59900	Balkan Internet Exchange Ltd		106
+358	9930	TT DOTCOM SDN BHD		106
+359	7470	TRUE INTERNET CORPORATION CO. LTD.		106
+360	201776	Miranda-Media Ltd		106
+361	59613	Ukrainian Backbone Networks LLC		105
+362	26554	US Signal Company, L.L.C.		105
+363	28343	Unifique Telecomunicações SA		104
+364	2519			103
+365	5089	Virgin Media Limited		103
+366	29208	Dial Telecom, a.s.		103
+367	41798	JSC Transtelecom		103
+368	59605	MENA LEVANT W.L.L		102
+369	703	MCI Communications Services, Inc. d/b/a Verizon Business		102
+370	9269	Hong Kong Broadband Network Ltd		102
+371	50606	Virtuaoperator Sp. z o.o.		102
+372	9116	Partner Communications Ltd.		101
+373	15164	Unite Private Networks LLC.		101
+374	12400	Partner Communications Ltd.		100
+375	8412	T-Mobile Austria GmbH		100
+376	10103	Hong Kong Broadband Network Ltd		100
+377	28910	"Uzbektelekom" Joint Stock Company		100
+378	22822	Limelight Networks, Inc.		99
+379	13789	Internap Holding LLC		99
+380	52573	TECHNET NETWORKS LTDA		99
+381	263073	DTEL TELECOM		99
+382	7004	CTC Transmisiones Regionales S.A.		98
+383	52091	Level-MSK Ltd.		98
+384	33668	Comcast Cable Communications, LLC		97
+385	50629	LWLcom GmbH		97
+386	199599	Telecom-Birzha, LLC		97
+387	199524	G-Core Labs S.A.		96
+388	31287	IPACCT CABLE Ltd		96
+389	4847	China Networks Inter-Exchange		95
+390	11172	Alestra, S. de R.L. de C.V.		95
+391	7568	CS Loxinfo Public Company Limited		95
+392	5518	Telia Latvija SIA		95
+393	48166	FORTEX CJSC		95
+394	28126	BRISANET SERVICOS DE TELECOMUNICACOES LTDA		95
+395	53181	K2 Telecom e Multimidia LTDA ME		95
+396	20080	Florida International University		94
+397	7575	AARNet		94
+398	24961	myLoc managed IT AG		94
+399	25159	PJSC MegaFon		94
+400	48237	Bayanat Al-Oula For Network Services Limited Co.		93
+401	1267	WIND TRE S.P.A.		93
+402	48159	Telecommunication Infrastructure Company		93
+403	6768	"EUROTELE-PLUS" LLC		93
+404	52925	Ascenty Data Centers e Telecomunicações S/A		93
+405	20771	Caucasus Online Ltd.		92
+406	262503	WIKI TELECOMUNICACOES EIRELI		92
+407	24748	ATM S.A.		91
+408	22652	Fibrenoire Inc.		91
+409	14259	Gtd Internet S.A.		91
+410	6855	Slovak Telecom, a. s.		91
+411	60280	Republican Unitary Enterprise "National Traffic Exchange Center"		91
+412	15576	NTS workspace AG		91
+413	265399	REDE ISP		91
+414	45117	Ishan's Network		91
+415	14868	COPEL Telecomunicações S.A.		91
+416	43754	Asiatech Data Transmission company		90
+417	41689	Asiatech Data Transmission company		90
+418	34779	T-2, d.o.o.		90
+419	31242	3S S.A.		90
+420	262761	Sinal Br Telecom Ltda		90
+421	9381	HKBN Enterprise Solutions HK Limited		89
+422	8764	Telia Lietuva, AB		89
+423	29396	Eurofiber Nederland BV		89
+424	2711	Spirit Communications		88
+425	8657	MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.		88
+426	9198	JSC Kazakhtelecom		88
+427	8262	Evolink AD		88
+428	13760	Uniti Fiber Holdings Inc.		88
+429	52863	UPX TECHNOLOGIES		88
+430	394659	SNAP		87
+431	1853	ACONET		87
+432	135069	Feenix Communications Limited		87
+433	2907			86
+434	2116	GLOBALCONNECT AS		86
+435	198507	Quantic Telecom SARL		86
+436	21385	Trusted Network GmbH		86
+437	27064	DoD Network Information Center		85
+438	20055	Wholesail networks LLC		85
+439	36236	NetActuate, Inc		85
+440	42708	GleSYS AB		85
+441	42861	Foton Telecom CJSC		85
+442	262355	VSX Networks		85
+443	2687	AT&T Global Network Services, LLC		84
+444	18734	Operbes, S.A. de C.V.		84
+445	12083	WideOpenWest Finance LLC		84
+446	1916	Associação Rede Nacional de Ensino e Pesquisa		84
+447	13768	Aptum Technologies		84
+448	8926	Moldtelecom SA		84
+449	46786	IP Transit Inc.		84
+450	11351	Charter Communications Inc		83
+451	40676	Psychz Networks		83
+452	27630	XFERNET		83
+453	44306	OMONIA d.o.o.		83
+454	20632	PJSC MegaFon		83
+455	33363	Charter Communications, Inc		82
+456	11426	Charter Communications Inc		82
+457	132215	Power Grid Corporation of India Limited		82
+458	48276	IPSvyaz OOO		82
+459	25227	JSC Avantel		82
+460	4808	China Unicom		81
+461	25091	IP-Max SA		81
+462	60388	Limited Liability Company "Transneft Telecom"		81
+463	12963	Scientific -Industrial Firm "Volz" Ltd		81
+464	27750	Cooperación Latino Americana de Redes Avanzadas		80
+465	12129	123.Net, Inc.		80
+466	3212	Telemach UG d.o.o.		80
+467	262476	PROVEDOR BRCENTRAL.NET LTDA		80
+468	61745	NBS SERVICOS DE COMUNICACOES LTDA		80
+469	134371	CIRCLE NETWORK		80
+470	33660	Comcast Cable Communications, LLC		79
+471	132876	Symphony Communication Public Company Limited		79
+472	12310	iNES GROUP SRL		79
+473	39107	Asociatia Interlan		79
+474	262206	COMCEL GUATEMALA S.A.		78
+475	7795	LUMOS Networks, Inc.		78
+476	56534	Comfortel Ltd.		78
+477	58299	Openfactory GmbH		78
+478	13367	Comcast Cable Communications, LLC		77
+479	63956	Colocation Australia Pty Ltd		77
+480	199995	Omega Telecom LLC		77
+481	53237	TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS		77
+482	267469	W8 Telecom Ltda - ME		77
+483	262462	Aranet Comunicacao Ltda		77
+484	262740	VELOO NET LTDA		77
+485	12735	TurkNet Iletisim Hizmetleri A.S.		76
+486	33652	Comcast Cable Communications, LLC		76
+487	6731	MTS PJSC		76
+488	25291	SysEleven GmbH		76
+489	4787	PT. Cyberindo Aditama		76
+490	56258	PT. PGAS TELEKOMUNIKASI NUSANTARA		76
+491	1759	Telia Finland Oyj		75
+492	8767	M-net Telekommunikations GmbH		75
+493	19151	BroadbandONE, LLC		75
+494	43668	Bignet LLC		75
+495	8151	Uninet S.A. de C.V.		74
+496	10099	China Unicom (Hong Kong) Operations Limited		74
+497	21859	Zenlayer Inc		74
+498	18747	IFX Corporation		74
+499	25255	Hutchison Drei Austria GmbH		74
+500	21497	PrJSC "VF UKRAINE"		74
